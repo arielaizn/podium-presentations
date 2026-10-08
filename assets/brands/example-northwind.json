@@ -1,0 +1,15 @@
+{
+  "name": "Northwind Logistics",
+  "label": "NORTHWIND",
+  "mode": "light",
+  "colors": {
+    "bg": "#F6F4EF",
+    "text": "#0B2545",
+    "accent": "#E4572E",
+    "accent_text": "#FFFFFF"
+  },
+  "fonts": {"heading": "Manrope", "body": "Inter", "he_heading": "Heebo", "he_body": "Heebo"},
+  "radius": 0.2,
+  "voice": "Calm, precise, data-first. Plain business English.",
+  "rules": ["Navy carries the text, coral only for the one number that matters"]
+}
