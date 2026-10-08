@@ -1,0 +1,14 @@
+interface:
+  display_name: Podium — מצגות ובונוסים
+  short_description: Animated decks, six PDF bonuses and a published HTML
+  default_prompt: Use $podium to create my presentation in PPTX, PDF and animated
+    HTML with six PDF bonuses and a live link.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
