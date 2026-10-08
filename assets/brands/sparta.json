@@ -1,0 +1,18 @@
+{
+  "name": "Sparta by Guyaga",
+  "label": "SPARTA",
+  "mode": "dark",
+  "colors": {
+    "bg": "#111111",
+    "surface": "#1C1C1C",
+    "text": "#F5F3EE",
+    "muted": "#8C8A84",
+    "line": "#2E2E2E",
+    "accent": "#E63B2E",
+    "accent_text": "#FFFFFF"
+  },
+  "fonts": {"heading": "Archivo", "body": "Inter", "he_heading": "Secular One", "he_body": "Rubik"},
+  "radius": 0.14,
+  "voice": "Direct, confident, warm. Short sentences. Red marks only the feature. No member counts.",
+  "rules": ["Black is the ground, ivory the voice, red the action", "Never a fourth colour"]
+}
